@@ -1,7 +1,4 @@
-# Keypoint-Detection-on-Clothes
-Based on Mask Rcnn algorithm
-
-Mask RCNN for Human Pose Estimation
+Mask RCNN for Keypoint Detection on Clothes
 -----------------------------------
 
 The original code is from "https://github.com/matterport/Mask_RCNN" on Python 3, Keras, and TensorFlow. The code reproduce the work of "https://arxiv.org/abs/1703.06870" for human pose estimation.
