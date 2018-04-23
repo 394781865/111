@@ -15,5 +15,9 @@ When I start it, I refer to these project:
 * Numpy, skimage, scipy, Pillow, cython, h5py
 
 
+## Train
+* python train_FashionAI.py
 
+## Test
+* python test_main.py
 
