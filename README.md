@@ -19,5 +19,5 @@ When I start it, I refer to these project:
 * python train_FashionAI.py
 
 ## Test
-* python test_main.py
+* python ---test_main.py
 
