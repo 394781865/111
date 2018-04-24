@@ -5,8 +5,8 @@ The original code is from "https://github.com/matterport/Mask_RCNN" on Python 3,
 
 When I start it, I refer to these project:
 
-https://github.com/Superlee506/Mask_RCNN_Humanpose
-https://github.com/facebookresearch/Detectron
+* https://github.com/Superlee506/Mask_RCNN_Humanpose
+* https://github.com/facebookresearch/Detectron
 
 ## Requirements
 * Python 3.5+
